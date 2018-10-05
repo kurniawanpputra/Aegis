@@ -1,0 +1,14 @@
+==PROJECT DETAILS
+* PHP version: 5.6.4
+* Laravel version: 5.3
+* DBMS: mysql
+
+==STEPS TO RUN THE PROJECT
+1. Download the project
+2. Make sure XAMPP is installed on your machine
+3. Move this project folder to C:\\xampp\\htdocs
+5. Open XAMPP, then start Apache and MySQL server
+6. Open the project in browser at localhost/Aegis
+
+==DEPLOYMENT
+* This project is not deployed
