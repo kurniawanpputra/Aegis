@@ -12,3 +12,4 @@
 
 ==DEPLOYMENT
 * This project is not deployed
+* This project development is permanently stopped
